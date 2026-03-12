@@ -9,7 +9,7 @@ This project **is** a specialized Python script designed to manage daily transac
 3- The code **calculates** the total of the whole amount and  **displays** a summary at the end of the day.
 
 ## STATUS
-> We **are currently improving** the data validation process to ensure all summaries are 100% accurate.
+> We **are currently improving** the way it displays; for next version we will integrate a framemwork like Tkinker.
 
 ---
 ### TECHNICAL DETALS
